@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Miss Judy's Farm.mp3";		
+f[2]	= "02 You're So Rude.mp3";		
+f[3]	= "03 Love Lives Here.mp3";		
+f[4]	= "04 Last Orders Please.mp3";		
+f[5]	= "05 Stay With Me.mp3";		
+f[6]	= "06 Debris.mp3";		
+f[7]	= "07 Memphis.mp3";		
+f[8]	= "08 Too Bad.mp3";		
+f[9]	= "09 That's All You Need.mp3";		

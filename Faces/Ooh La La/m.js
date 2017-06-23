@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Silicone Grown.mp3";		
+f[2]	= "02 Cindy Incidentally.mp3";		
+f[3]	= "03 Flags and Banners.mp3";		
+f[4]	= "04 My Fault.mp3";		
+f[5]	= "05 Borstal Boys.mp3";		
+f[6]	= "06 Fly in the Ointment.mp3";		
+f[7]	= "07 If I'm on the Late Side.mp3";		
+f[8]	= "08 Glad and Sorry.mp3";		
+f[9]	= "09 Just Another Honky.mp3";		
+f[10]	= "10 Ooh la La.mp3";		
