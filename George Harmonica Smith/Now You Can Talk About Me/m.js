@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Blowing the Blues.mp3";		
+f[2]	= "02 Yes, Baby.mp3";		
+f[3]	= "03 Tight Dress.mp3";		
+f[4]	= "04 Times Won't Be Hard Always.mp3";		
+f[5]	= "05 Good Things.mp3";		
+f[6]	= "06 Goin' Down Slow.mp3";		
+f[7]	= "07 Last Chance [#].mp3";		
+f[8]	= "08 Boogie'n with George.mp3";		
+f[9]	= "09 Bad Start.mp3";		
+f[10]	= "10 Astatic Stomp.mp3";		
+f[11]	= "11 I Left My Heart in San Francisco.mp3";		
+f[12]	= "12 Sunbird.mp3";		
+f[13]	= "13 Chicago City.mp3";		
+f[14]	= "14 Peg o' My Heart.mp3";		
