@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 The Best Of What's Around.mp3";		
+f[2]	= "02 What Would You Say.mp3";		
+f[3]	= "03 Satellite.mp3";		
+f[4]	= "04 Rhyme & Reason.mp3";		
+f[5]	= "05 Typical Situation.mp3";		
+f[6]	= "06 Dancing Nancies.mp3";		
+f[7]	= "07 Ants Marching.mp3";		
+f[8]	= "08 Lover Lay Down.mp3";		
+f[9]	= "09 Jimi Thing.mp3";		
+f[10]	= "10 Warehouse.mp3";		
+f[11]	= "11 Pay For What You Get.mp3";		
+f[12]	= "12 34.mp3";		
+f[13]	= "13 Track 13.mp3";		
+f[14]	= "14 Track 14.mp3";		
+f[15]	= "15 Track 15.mp3";		
