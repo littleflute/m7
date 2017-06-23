@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m7/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m7/edit/master/README.md)
 
 [40 Years of Jukebox Hits- The 50's, 60's, 70's ,80's Disc 6](40 Years of Jukebox Hits- The 50's, 60's, 70's ,80's Disc 6)
 
@@ -11,4 +11,7 @@
 [Faces/A Nod Is as Good as a Wink to a Blind Horse](Faces/A Nod Is as Good as a Wink to a Blind Horse)
 
 [Faces/Ooh La La](Faces/Ooh La La)
+
+[Small Faces/Ogden's Nut Gone Flake (Sunspot)](Small Faces/Ogden's Nut Gone Flake [Sunspot])
+
 
