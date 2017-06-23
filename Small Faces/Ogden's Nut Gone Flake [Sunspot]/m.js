@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Ogden's Nut Gone Flake.mp3";		
+f[2]	= "02 Afterglow (Of Your Love).mp3";		
+f[3]	= "03 Long Agos and Worlds Apart.mp3";		
+f[4]	= "04 Rene.mp3";		
+f[5]	= "05 Song of a Baker.mp3";		
+f[6]	= "06 Lazy Sunday.mp3";		
+f[7]	= "07 Donkey Rides, A Penny, A Glass [-].mp3";		
+f[8]	= "08 Happiness Stan.mp3";		
+f[9]	= "09 Rollin' Over.mp3";		
+f[10]	= "10 The Hungry Intruder.mp3";		
+f[11]	= "11 The Journey.mp3";		
+f[12]	= "12 Mad John.mp3";		
+f[13]	= "13 Happy Days Toy Town.mp3";		
+f[14]	= "14 Every Little Bit Hurts [-].mp3";		
