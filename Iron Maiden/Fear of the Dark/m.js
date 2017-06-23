@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Be Quick or Be Dead.mp3";		
+f[2]	= "02 From Here to Eternity.mp3";		
+f[3]	= "03 Afraid to Shoot Strangers.mp3";		
+f[4]	= "04 Fear Is the Key.mp3";		
+f[5]	= "05 Childhood's End.mp3";		
+f[6]	= "06 Wasting Love.mp3";		
+f[7]	= "07 The Fugitive.mp3";		
+f[8]	= "08 Chains of Misery.mp3";		
+f[9]	= "09 The Apparition.mp3";		
+f[10]	= "10 Judas Be My Guide.mp3";		
+f[11]	= "11 Weekend Warrior.mp3";		
+f[12]	= "12 Fear of the Dark.mp3";		
